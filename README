@@ -1,0 +1,7 @@
+BoxyBoxy Game
+
+Requirements: Java 8 minimum
+
+Run by command line or IDE and issue commands to play the game.
+The game can be automated by supplying moves into a List<String> and redirecting System.In
+This can be acheieved by setting AUTOMATE = true
